@@ -6,8 +6,9 @@ Label: CWRU EECS 373
 Suite: focal
 Codename: focal
 Version: 1.0
+Architectures: amd64
 Components: main
-Date: Sun, 05 Nov 2023 00:47:05 +0000
+Date: Sun, 05 Nov 2023 01:28:02 +0000
 MD5Sum:
  ae448d51827aa9a640f6b2d04f50e763            11393 main/binary-amd64/Packages
  9244334131952e943a96b2c98c7c5478             3976 main/binary-amd64/Packages.gz
@@ -26,17 +27,17 @@ SHA512:
  927baafb78b22d934f77455d2aa405577523e11d5e23273788350a48e7bd48ba88be42d95f7affaf52cb9bcb9f0fb78526e68da8cdfb013159874574a0ea8152              113 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE846v4xlCrs/ui9r59dH+ZrQ/kVAFAmVG5gkACgkQ9dH+ZrQ/
-kVBMIQ/+P7x3XeNGpOoipVEkfvqvKLomO/K0weBi9e88B5OKraN8iaQQAIA9nzMD
-XyMfe7+cXv4IuR6syfFzK/T1X1uTyf72uVTq3s67mwjcOgxBuWDXIuVtDXbtW2yA
-xKoiB+tvEXH7EvPNLRMBA31+TQ8rujy48mkrAMktOVEbDwUKshy4jMDqDHvO4w8z
-E0RkyHC/QTalar6pl4UMe2M71Yj6KXo7gAfSCMlOolquobY9xWPzMU/n3JQ6n6Gl
-Laj/Mi+YnKXnJeoHupVBS3lO4aj/ycnVGtY/NSZ+CEjwgbTebriaRJUNtPOVmR3a
-6Dlcy0udd6ayN/7lMUqyd7opfNRb83QgIb+Ko0ERrlZ0paTWT4+0b2GeYvbzsQmx
-LrIH82WOMnWCKX6Dzhx7RzJ0g0IiadKm2AZsK1c2AO9br9ENnXU4mDtW1YzdGIIX
-SVSgI1peZwZ2Zar6PbTbP3Dq9+coTb0TADxjYMc45mlJkZjdbD+/g327oJ1rowYQ
-0IrZCPysgkQPKH5vqPpPpE8sK52ixVerMIcWv2Doxwwr/b+Z88gI0R8MdMiS6m/y
-7zMVO/da/slyWJJkMNRYoS0kFM/nW87AhgJ/j5w3AREW0Hn6LD6UcP/CV9bR6tKX
-UaamLXflvYasttYS2CcbaOfslytsdU63jZi+ma+I8ajqw+sG4mU=
-=pQYF
+iQIzBAEBCgAdFiEE846v4xlCrs/ui9r59dH+ZrQ/kVAFAmVG76IACgkQ9dH+ZrQ/
+kVB3Jw//Yj9i1FX4uJvDufO90vFzrG1aIRwcbuO9CcLm8kkP52FLf+iVoAUenH+Q
+cIWTX0n11qmGjaGwTopYhEz370cx02nDZTx/1x03GaRKcm1rseRhVi8k5DVqg9c8
+TI9gQeNl4NeT2UuzLqPPDmNPg/2t2RVS+vy8qdoqQLJajkXOx0EX7NE1azt+uL3q
+iLWALwvSaywqT0fBwORWfKgerqSfcAC5ZYfqkfDBuaf8Csvi2SjEraHWgzVrBSK/
+skkz+/aL+gwuzgdtoep0w2ub7annnYsF6OdDdzaRHDfSYbGzUBrBIzFZ4DzJv23N
+9L+pHJNBLPfR6IDhaFkFkJEDSXfV3BNV2YCpJ0xP9PLZZvxF5XUVBTjznz0K8aV3
+2ycGU0ksuVQaVg2ARJGml0SFSP9r6N6p+WfT0AAZlkotIwvYf3pjSx+A6NoG/QsD
+BxtaDPqTKigLflWrWPwVNUKx/6EvOdfWKaKTpSigEFQegqRmFapgNmbh8IGzvo4r
+/EQPpvDqOeS6sWCG76t8ggeP0DLAwV+mOL4d2Eo5ZODOvzl7/LY4ou+FVOMl3+3C
+y4TKSLT8pm+sTWxrmrkS9nVtVO8Ti7GAhInnnr2PTzJ23W9OCf8NnifIxp9UlYDY
+VksiurB5rs3r/7rfVoBfCoYzqvPmKGsk0OXa/TuZgGGomlVmCTw=
+=4pMr
 -----END PGP SIGNATURE-----
