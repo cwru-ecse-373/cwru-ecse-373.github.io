@@ -1,0 +1,28 @@
+Origin: CWRU EECS 373 Repository
+Label: CWRU EECS 373
+Suite: focal
+Codename: focal
+Version: 1.0
+Architectures: i386 amd64
+Components: main
+Date: Mon, 06 Nov 2023 16:38:32 +0000
+MD5Sum:
+ ae448d51827aa9a640f6b2d04f50e763            11393 main/binary-amd64/Packages
+ 9244334131952e943a96b2c98c7c5478             3976 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-i386/Packages
+ 4a4dd3598707603b3f76a2378a4504aa               20 main/binary-i386/Packages.gz
+SHA1:
+ 7b73d0ce1e519eae0122e80a478cf067f9496a66            11393 main/binary-amd64/Packages
+ 7bf5ded0cb89feaf2d8922f4c9aad6ee4fc86470             3976 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-i386/Packages
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed               20 main/binary-i386/Packages.gz
+SHA256:
+ a4726db9b84936414c0001d0ed0eff185f9bd61f0d27e58bd4c948bc732be523            11393 main/binary-amd64/Packages
+ 18fb95de4d917e90b538144a81c67d983301d6e35ed6d2b1a52998d49397faa6             3976 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-i386/Packages
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec               20 main/binary-i386/Packages.gz
+SHA512:
+ b655908eb1950c3db5269a8755b58662994725f3a3808fcbc56859f5d414ebd8918d606eef618a46fa22d3e38aaca0d1e105913e0dcf5fef7cf9e2de400315cb            11393 main/binary-amd64/Packages
+ 9f603fd08f7d425753c28c6634954bfd9891a831423f8d6e0bfb2bfa7425adecfc34a30b8c0bf8fe0bc967673bd38eb2537bacc265e3b733e130d597d3ca06f5             3976 main/binary-amd64/Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-i386/Packages
+ 1b46b9b08d5b338be9d732a1724795b2eab63daffde377218727c90857b79fe6a47bceed495117fcde60f7339812ef75ef4c69f82dd79fb69b6cbf8006b521f2               20 main/binary-i386/Packages.gz
