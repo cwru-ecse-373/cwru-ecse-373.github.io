@@ -1,0 +1,24 @@
+Origin: CWRU ECSE 373 Repository
+Label: CWRU ECSE 373
+Suite: focal
+Codename: focal
+Version: 1.0
+Components: main
+
+Date: Tue, 05 Dec 2023 21:26:16 +0000
+MD5Sum:
+ 1961721ff8c5b7387e16780c395738a9              152 Release
+ bae706da306925a6c394c5e2d9fafc99            11657 main/binary-amd64/Packages
+ 5eba8e6c3d22dbbdbbe065fe054a66dd             3986 main/binary-amd64/Packages.gz
+SHA1:
+ 99f1d20fdeaa61bd047fa6bfe8f7d91b39b0859a              152 Release
+ c3a05749a0aa1a62efc96595c29df39b32f8d24b            11657 main/binary-amd64/Packages
+ e2b41182dd5cf17a5893ec1bd679d8df156793e2             3986 main/binary-amd64/Packages.gz
+SHA256:
+ 62bef23f290d1f29ba0b99cb6969114b75ad150d61ce21cae48fffd3c237af38              152 Release
+ 12f60ad393c036dfc0f5428fbad6acc044797081b8e5afd52e35fb029274a5d3            11657 main/binary-amd64/Packages
+ aa690ad5e7eac5ef28fc37488a6519b8692a95dcc03f2b4cd186690d7f468dfe             3986 main/binary-amd64/Packages.gz
+SHA512:
+ 4cc14cd5ec46c38374dae54f05f3cee52df85b509225240100e04f9fb3b1445a896cf4a6592550b859bba72acee4a0b2c368763ae28a257ab42ebbb2d988ea75              152 Release
+ 53f5bad6200cfdf04da2a7aeeaaa3a77510ebfb94e2af9d51cbf1a82604ddfb90cf291d66ce42a85dcaf9357881002ca46a7e465a77096ba8e7b38950eb70306            11657 main/binary-amd64/Packages
+ 48c5530b6781bc7804cf4f4992e86d0d344c30a11145055e5e6acd482398b2047325120c60fc57082bc554797935d5caf2fbe1989c36f994645e22cc7ecde349             3986 main/binary-amd64/Packages.gz
