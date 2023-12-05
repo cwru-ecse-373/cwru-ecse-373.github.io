@@ -6,7 +6,7 @@ Section: misc
 Maintainer: Prof. Lee <leegs@case.edu>
 Installed-Size: 136
 Depends: ros-noetic-effort-controllers, ros-noetic-gazebo-ros-control, ros-noetic-joint-trajectory-controller, ros-noetic-osrf-gear, ros-noetic-ur-kinematics
-Filename: pool/main/ros-noetic-ecse-373-ariac_0.1.0-0focal_amd64.deb
+Filename: cwru-eecs-373-webpage/repo/pool/main/ros-noetic-ecse-373-ariac_0.1.0-0focal_amd64.deb
 Size: 19780
 MD5sum: b4386985bbe2ba7d37bf870921491a2d
 SHA1: ca4208ccbf61b5e267c8aca81a029e0a66bd95fc
@@ -18,18 +18,18 @@ Description: The ecse_373_ariac package for use with ECSE/DSCS 373/473 Modern Ro
 
 Package: ros-noetic-osrf-gear
 Architecture: amd64
-Version: 3.0.7-0focal
+Version: 3.0.8-0focal
 Priority: optional
 Section: misc
 Maintainer: Shane Loretz <sloretz@osrfoundation.org>
-Installed-Size: 34144
+Installed-Size: 34256
 Depends: libboost-thread1.71.0, libc6 (>= 2.14), libgazebo11 (>= 11.14.0), libgcc-s1 (>= 3.0), libignition-math6 (>= 6.15.0), libprotobuf17, libsdformat9 (>= 9.10.0), libstdc++6 (>= 9), python3-rospkg, ros-noetic-controller-manager, ros-noetic-effort-controllers, ros-noetic-gazebo-plugins, ros-noetic-gazebo-ros, ros-noetic-gazebo-ros-control, ros-noetic-geometry-msgs, ros-noetic-joint-trajectory-controller, ros-noetic-message-runtime, ros-noetic-robot-state-publisher, ros-noetic-ros-control, ros-noetic-roscpp, ros-noetic-rospack, ros-noetic-std-msgs, ros-noetic-std-srvs, ros-noetic-tf
-Filename: pool/main/ros-noetic-osrf-gear_3.0.7-0focal_amd64.deb
-Size: 13667232
-MD5sum: 45cc5107f2a590c94dae91cfde736c3b
-SHA1: ac193677440f5cb39680dfe0ac29ef240fa093bb
-SHA256: 1def3b0b5f88946f0420be51143a87bd644829e9b33703b83157c853a1e6a1e0
-SHA512: e81c8ada638901d20d6c6c4037987ae1dbab8116fc3d6631142e51fb3245fd186b98c605bb1e099caf328895e204a37e79f560fdbc520bccb2778e09923d7724
+Filename: cwru-eecs-373-webpage/repo/pool/main/ros-noetic-osrf-gear_3.0.8-0focal_amd64.deb
+Size: 13700632
+MD5sum: 4dcddb01d464adb956d3c2f8ced9ddfb
+SHA1: 401f6b54946aaa120cb735a40f75baaa925420f8
+SHA256: f8264b3852341355a9da20e08e8671742c2e5dbb07eabb22ef71cbfff6eb4488
+SHA512: 0821bbfbd193b3cbc6f796b6de807644c770ac6e3df7131f58d11cae508bc45b07f83c581dde7c5511285538910a3068764d350701beb1b86199be69a7fdca2d
 Description: The ROS package for the NIST Industrial Automation Competition.
 
 Package: ros-noetic-stdr-gui
@@ -40,7 +40,7 @@ Section: misc
 Maintainer: Chris Zalidis <zalidis@gmail.com>
 Installed-Size: 3263
 Depends: libboost-thread1.71.0, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.12.2), libqt5gui5 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 9), libqt5gui5, ros-noetic-map-server, ros-noetic-nav-msgs, ros-noetic-qt-gui, ros-noetic-roscpp, ros-noetic-roslib, ros-noetic-sdtr-server, ros-noetic-sensor-msgs, ros-noetic-stdr-msgs, ros-noetic-stdr-parser, ros-noetic-stdr-robot, ros-noetic-tf
-Filename: pool/main/ros-noetic-stdr-gui_0.4.1-0focal_amd64.deb
+Filename: cwru-eecs-373-webpage/repo/pool/main/ros-noetic-stdr-gui_0.4.1-0focal_amd64.deb
 Size: 1023036
 MD5sum: 97f608cf6c4656260518f8a4d2e40764
 SHA1: 9b7fd7135390c01f04b26dae8b314517fdb1ec65
@@ -57,7 +57,7 @@ Section: misc
 Maintainer: Chris Zalidis <zalidis@gmail.com>
 Installed-Size: 42
 Depends: ros-noetic-rviz, ros-noetic-sdtr-server, ros-noetic-stdr-gui, ros-noetic-stdr-resources, ros-noetic-stdr-robot
-Filename: pool/main/ros-noetic-stdr-launchers_0.4.1-0focal_amd64.deb
+Filename: cwru-eecs-373-webpage/repo/pool/main/ros-noetic-stdr-launchers_0.4.1-0focal_amd64.deb
 Size: 7400
 MD5sum: 3fd17ab2847b4ab502e1235e0fed0826
 SHA1: 2bf5e0637a4f815c86e1e935ccf7353da252966b
@@ -74,7 +74,7 @@ Section: misc
 Maintainer: Chris Zalidis <zalidis@gmail.com>
 Installed-Size: 3630
 Depends: ros-noetic-actionlib-msgs, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-nav-msgs, ros-noetic-std-msgs
-Filename: pool/main/ros-noetic-stdr-msgs_0.4.1-0focal_amd64.deb
+Filename: cwru-eecs-373-webpage/repo/pool/main/ros-noetic-stdr-msgs_0.4.1-0focal_amd64.deb
 Size: 149872
 MD5sum: 1df641cf52d8287c10fb7605fa753de0
 SHA1: 0b7a8d01d59d4a615f7b3f10e1f1c2a02c41094f
@@ -91,7 +91,7 @@ Section: misc
 Maintainer: Chris Zalidis <zalidis@gmail.com>
 Installed-Size: 384
 Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 9), libtinyxml2.6.2v5, libyaml-cpp0.6 (>= 0.6.2), libtinyxml-dev, libyaml-cpp-dev, ros-noetic-roscpp, ros-noetic-roslib, ros-noetic-stdr-msgs
-Filename: pool/main/ros-noetic-stdr-parser_0.4.1-0focal_amd64.deb
+Filename: cwru-eecs-373-webpage/repo/pool/main/ros-noetic-stdr-parser_0.4.1-0focal_amd64.deb
 Size: 99136
 MD5sum: 1e860df425a325ab4b460f9e6b336f2e
 SHA1: 6b8cc0bef7e8e9ce0e89db0897d53ddb803a568a
@@ -107,7 +107,7 @@ Priority: optional
 Section: misc
 Maintainer: Chris Zalidis <zalidis@gmail.com>
 Installed-Size: 435
-Filename: pool/main/ros-noetic-stdr-resources_0.4.1-0focal_amd64.deb
+Filename: cwru-eecs-373-webpage/repo/pool/main/ros-noetic-stdr-resources_0.4.1-0focal_amd64.deb
 Size: 256404
 MD5sum: 596b6eda474c5d14f0158813dfe1738b
 SHA1: 86a20121e1c4c1556a53b5b3e3992738a5f458ee
@@ -124,7 +124,7 @@ Section: misc
 Maintainer: Chris Zalidis <zalidis@gmail.com>
 Installed-Size: 2538
 Depends: libboost-thread1.71.0, libc6 (>= 2.17), libconsole-bridge0.4, libgcc-s1 (>= 3.0), libstdc++6 (>= 9), ros-noetic-actionlib, ros-noetic-geometry-msgs, ros-noetic-nav-msgs, ros-noetic-nodelet, ros-noetic-roscpp, ros-noetic-sdtr-server, ros-noetic-sensor-msgs, ros-noetic-stdr-msgs, ros-noetic-stdr-parser, ros-noetic-tf
-Filename: pool/main/ros-noetic-stdr-robot_0.4.1-0focal_amd64.deb
+Filename: cwru-eecs-373-webpage/repo/pool/main/ros-noetic-stdr-robot_0.4.1-0focal_amd64.deb
 Size: 362372
 MD5sum: 930c4795a72c186e7b1cde5c046d1dbb
 SHA1: cbcdcfdbe5dbcb8171eeb54344291d2532b04b2f
@@ -141,7 +141,7 @@ Section: misc
 Maintainer: Chris Zalidis <zalidis@gmail.com>
 Installed-Size: 129
 Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2), ros-noetic-geometry-msgs, ros-noetic-nav-msgs, ros-noetic-roscpp, ros-noetic-roslib, ros-noetic-sensor-msgs, ros-noetic-stdr-msgs, ros-noetic-tf
-Filename: pool/main/ros-noetic-stdr-samples_0.4.1-0focal_amd64.deb
+Filename: cwru-eecs-373-webpage/repo/pool/main/ros-noetic-stdr-samples_0.4.1-0focal_amd64.deb
 Size: 32848
 MD5sum: d5324fe09d1884365e38ecf1e81c6ae2
 SHA1: 58cd15f4ab5787036e8dea890e6c4dc77aed1db3
@@ -158,7 +158,7 @@ Section: misc
 Maintainer: Chris Zalidis <zalidis@gmail.com>
 Installed-Size: 1453
 Depends: libboost-thread1.71.0, libc6 (>= 2.17), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2), libyaml-cpp0.6 (>= 0.6.2), libyaml-cpp-dev, ros-noetic-actionlib, ros-noetic-map-server, ros-noetic-nav-msgs, ros-noetic-nodelet, ros-noetic-roscpp, ros-noetic-stdr-msgs, ros-noetic-tf, ros-noetic-visualization-msgs
-Filename: pool/main/ros-noetic-stdr-server_0.4.1-0focal_amd64.deb
+Filename: cwru-eecs-373-webpage/repo/pool/main/ros-noetic-stdr-server_0.4.1-0focal_amd64.deb
 Size: 250332
 MD5sum: 82492857d064eceb52592f8b7476eb20
 SHA1: 160b45e81de194bd50d631d0bdb9ca3b26bdcf83
@@ -175,7 +175,7 @@ Section: misc
 Maintainer: Chris Zalidis <zalidis@gmail.com>
 Installed-Size: 15
 Depends: ros-noetic-sdtr-server, ros-noetic-stdr-gui, ros-noetic-stdr-launchers, ros-noetic-stdr-msgs, ros-noetic-stdr-parser, ros-noetic-stdr-resources, ros-noetic-stdr-robot, ros-noetic-stdr-samples
-Filename: pool/main/ros-noetic-stdr-simulator_0.4.1-0focal_amd64.deb
+Filename: cwru-eecs-373-webpage/repo/pool/main/ros-noetic-stdr-simulator_0.4.1-0focal_amd64.deb
 Size: 2184
 MD5sum: 8083e9260829a0cf8573b90e82d35b64
 SHA1: 5ad2e14a7e0ced3b36ede3ca2cb0c6eac40cc30b
@@ -192,7 +192,7 @@ Section: misc
 Maintainer: G.A. vd. Hoorn <g.a.vanderhoorn@tudelft.nl>
 Installed-Size: 641
 Depends: libc6 (>= 2.14), libconsole-bridge0.4, libgcc-s1 (>= 3.0), liborocos-kdl1.4, libstdc++6 (>= 5.2), ros-noetic-moveit-core, ros-noetic-moveit-ros-planning, libboost-all-dev, ros-noetic-geometry-msgs, ros-noetic-moveit-kinematics, ros-noetic-pluginlib, ros-noetic-roscpp, ros-noetic-rospy, ros-noetic-tf-conversions
-Filename: pool/main/ros-noetic-ur-kinematics_1.2.8-0focal_amd64.deb
+Filename: cwru-eecs-373-webpage/repo/pool/main/ros-noetic-ur-kinematics_1.2.8-0focal_amd64.deb
 Size: 72416
 MD5sum: e49fe062e9280a4feb7e702b04a553bd
 SHA1: e8a9e39853a0ea1f2efeeb4803b83e947808b438
