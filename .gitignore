@@ -2,3 +2,6 @@
 
 # Try not to accidentally add the private key
 **/*.private
+
+
+**/Release*
