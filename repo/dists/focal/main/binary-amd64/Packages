@@ -12,7 +12,7 @@ MD5sum: b4386985bbe2ba7d37bf870921491a2d
 SHA1: ca4208ccbf61b5e267c8aca81a029e0a66bd95fc
 SHA256: eeb28283b2a6a20799d9d31ae86c3a95b21d81ab7f11908abfb080b32f48f53a
 SHA512: 4490b19c7627ae8dba377a3601dda87ebf9677457b1581060279a6c430affc385ab61898d93855cef09c650d384163ff907fd2c6fe5c61bd12db6cb4269240a0
-Homepage: https://github.com/cwru-eecs-373/ecse_373_ariac.git
+Homepage: https://github.com/cwru-ecse-373/ecse_373_ariac.git
 Description: The ecse_373_ariac package for use with ECSE/DSCS 373/473 Modern Robot Programming course at Case Western Reserve University.
  It allows the ARIAC 2019 package to be use for the course project.
 
