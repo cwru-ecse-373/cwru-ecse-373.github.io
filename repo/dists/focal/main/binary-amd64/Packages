@@ -12,7 +12,25 @@ MD5sum: b4386985bbe2ba7d37bf870921491a2d
 SHA1: ca4208ccbf61b5e267c8aca81a029e0a66bd95fc
 SHA256: eeb28283b2a6a20799d9d31ae86c3a95b21d81ab7f11908abfb080b32f48f53a
 SHA512: 4490b19c7627ae8dba377a3601dda87ebf9677457b1581060279a6c430affc385ab61898d93855cef09c650d384163ff907fd2c6fe5c61bd12db6cb4269240a0
-Homepage: https://github.com/cwru-ecse-373/ecse_373_ariac.git
+Homepage: https://github.com/cwru-eecs-373/ecse_373_ariac.git
+Description: The ecse_373_ariac package for use with ECSE/DSCS 373/473 Modern Robot Programming course at Case Western Reserve University.
+ It allows the ARIAC 2019 package to be use for the course project.
+
+Package: ros-noetic-ecse-373-ariac
+Architecture: amd64
+Version: 0.1.1-0focal
+Priority: optional
+Section: misc
+Maintainer: Prof. Lee <leegs@case.edu>
+Installed-Size: 161
+Depends: ros-noetic-effort-controllers, ros-noetic-gazebo-ros-control, ros-noetic-joint-trajectory-controller, ros-noetic-osrf-gear, ros-noetic-ur-kinematics
+Filename: pool/main/ros-noetic-ecse-373-ariac_0.1.1-0focal_amd64.deb
+Size: 19840
+MD5sum: 9d6f883781d1b1fac8eace5d343e13a4
+SHA1: 6e492da814ebc867db3a5abab695628b52ac73b2
+SHA256: 040a8f681f6b625566e0590f1d142605c43dc8efc5470a21d1358cda9fec19c3
+SHA512: f029ddddd6693ba54ae3d94952a8ddc185592472db457a4ae0a87a4b7fee1e925f93b5d8aa06a020dc5fb88fbb9c0ec842deee74d683362ab2c358435a30f117
+Homepage: https://github.com/cwru-eecs-373/ecse_373_ariac.git
 Description: The ecse_373_ariac package for use with ECSE/DSCS 373/473 Modern Robot Programming course at Case Western Reserve University.
  It allows the ARIAC 2019 package to be use for the course project.
 
